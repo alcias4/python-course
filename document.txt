@@ -1,0 +1,4 @@
+
+virtual: py -m venv env 
+active :   source env/bin/active
+exit : deactivate
